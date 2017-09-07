@@ -1,0 +1,25 @@
+{
+  "name": "ls-webpack-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.lsc.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkle/ls-webpack-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darkle/ls-webpack-test/issues"
+  },
+  "homepage": "https://github.com/Darkle/ls-webpack-test#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-lightscript": "^0.5.9",
+    "webpack": "^3.5.6"
+  }
+}
