@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.lsc.js",
   "scripts": {
-    "start": "webpack"
+    "webpack": "webpack",
+    "babel": "babel ./index.lsc.js --out-file ./index-compiled.js --source-maps --plugins lightscript"
   },
   "repository": {
     "type": "git",

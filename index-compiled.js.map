@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.lsc.js"],"names":[],"mappings":"SAEA,G,EAAK,EAAE,I,CAAK;AACV;AAAC","file":"index-compiled.js","sourcesContent":["\r\n\r\nfoo(): void ->\r\n  1\r\n\r\n\r\n"]}
