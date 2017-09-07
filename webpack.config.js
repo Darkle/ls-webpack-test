@@ -22,8 +22,4 @@ const webpackOptions = {
   }
 }
 
-if(process.env.NODE_ENV === 'development'){
-  webpackOptions.devtools = 'source-map'
-}
-
 module.exports = webpackOptions
