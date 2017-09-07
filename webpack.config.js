@@ -2,7 +2,7 @@ const path = require('path')
 
 const appDir = path.resolve(__dirname)
 
-const webpackOptions = {
+module.exports = {
   entry: './index.lsc.js',
   output: {
     filename: 'index-compiled.js',
@@ -21,5 +21,3 @@ const webpackOptions = {
     ]
   }
 }
-
-module.exports = webpackOptions
